@@ -35,7 +35,7 @@ function Home() {
 
 
             <div id="section1" style={{ paddingTop: '0', display: 'flex', justifyContent: 'center', width: '100%' }}>
-                <p style={{ textAlign: 'center', fontSize: '48px', backgroundColor: '#211c1c', color: 'white', width: '100%', margin: '0', paddingBottom: '20px', paddingTop: '50px' }}>About me</p>
+                <p style={{ textAlign: 'center', fontSize: '48px', backgroundColor: '#211c1c', color: 'white', width: '100%', margin: '0', paddingBottom: '20px', paddingTop: '50px' }}>About Me</p>
             </div>
             <div style={{ margin: '0', backgroundColor: '#3d3d3d', textAlign: 'center', color: 'white', height: '100%', width: '100vw' }}>
                 <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -120,7 +120,7 @@ function Home() {
                     <div style={{ marginRight: '20px' }}></div>
                     <div>
                         <iframe frameborder="0" src="https://itch.io/embed/1676599?border_width=5&amp;bg_color=ffecd6&amp;fg_color=0d2b45&amp;link_color=ffaa5e&amp;border_color=76708a" width="560" height="175"><a href="https://nickvg.itch.io/falling-monkey">Falling Monkey by Nickvg</a></iframe>
-                        <p style={{ width: '560px', textAlign: 'left' }} >A monkey who is done with life, but life is not done with him. 'Falling Monkey' provides a melancholic experience I've yet to recapture. This project increased my respect for sound design with every *boing*.'</p>
+                        <p style={{ width: '560px', textAlign: 'left' }} >A monkey who is done with life, but life is not done with him. 'Falling Monkey' provides a melancholic experience I've yet to recapture. This project increased my respect for sound design with every *boing*.</p>
                     </div>
                 </div>
                 <div style={{ display: 'flex', justifyContent: 'center', paddingTop: '20px' }}>
