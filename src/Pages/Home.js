@@ -127,7 +127,7 @@ function Home() {
                 <div style={{ display: 'flex', justifyContent: 'center', paddingTop: '20px' }}>
                     <div style={{ marginRight: '10px' }}>
                         <iframe frameborder="0" src="https://itch.io/embed/2132730?border_width=5&amp;bg_color=1b1c16&amp;fg_color=2cff2a&amp;link_color=327345&amp;border_color=484943" width="560" height="175"><a href="https://nickvg.itch.io/blow-that-bean-off-the-table">Blow That Bean Off The Table! by Nickvg</a></iframe>
-                        <p style={{ marginTop: '1rem', width: '560px', textAlign: 'left' }}>Inspired by'The Stanley Parable' and found footage videos like the backrooms, this game served as an exploration of horror through sound and visuals using an unassuming vegetable. Stick around long enough to see the true ending ;). </p>
+                        <p style={{ marginTop: '1rem', width: '560px', textAlign: 'left' }}>Inspired by 'The Stanley Parable' and found footage videos like 'The Backrooms', this game served as an exploration of horror through sound and visuals using an unassuming vegetable. Stick around long enough to see the true ending ;). </p>
                     </div>
                     <div style={{ marginRight: '20px' }}></div>
                     <div>
