@@ -77,7 +77,7 @@ function Home() {
             <div className='Background' style={{ margin: '0', textAlign: 'center', color: 'black', height: '100%', width: '100vw' }}>
                 <div style={{ display: 'flex', justifyContent: 'center' }}>
                     <div>
-                        <img style={{ borderRadius: '5px', margin: '30px', width: '210px', border: '5px solid #211c1c' }} src={metalPlateImage} alt="Headshot" />
+                        <img style={{ borderRadius: '5px', margin: '30px', width: '220px', border: '5px solid #211c1c' }} src={metalPlateImage} alt="Headshot" />
                     </div>
                     <div>
                         <p style={{ fontWeight: 800, paddingTop: '30px', textAlign: 'left', width: '600px' }}>Hi! I'm Nick, a game programmer and designer from the Netherlands and a student at Fontys Hogeschool Eindhoven where I study Game Design & Technology. I love expressing my creativity, sometimes by making music, sometimes through digital art, but mostly by making games.
