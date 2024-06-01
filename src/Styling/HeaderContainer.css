@@ -1,6 +1,6 @@
 .HeaderContainer {
-    background: rgb(61, 61, 61);
-    background: linear-gradient(90deg, rgb(37, 37, 37) 0%, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, 1) 80%,rgb(37, 37, 37) 100%);
+    background: rgba(61, 61, 61, 0.5);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.7) 20%, rgba(0, 0, 0, 0.7) 80%,rgba(0, 0, 0, 1) 100%);
     margin-left: 10%;
 }
 
@@ -16,11 +16,23 @@
     font-weight: 500;
 }
 
-/* .Background{
-    background: rgb(218,210,187);
-    background: linear-gradient(90deg, rgba(218,210,187,1) 0%, rgba(166,212,199,1) 50%, rgba(221,184,184,1) 100%);
-} */
 .Background{
     background: rgb(34,193,195);
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,174,45,1) 100%);
+}
+
+.NavBar{
+    backdrop-filter: blur(10px); /* Blur effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+}
+
+@keyframes flash {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+.flash {
+
+    animation: flash 1s infinite alternate;
 }
