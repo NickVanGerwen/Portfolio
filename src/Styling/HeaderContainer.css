@@ -1,0 +1,26 @@
+.HeaderContainer {
+    background: rgb(61, 61, 61);
+    background: linear-gradient(90deg, rgb(37, 37, 37) 0%, rgba(0, 0, 0, 1) 20%, rgba(0, 0, 0, 1) 80%,rgb(37, 37, 37) 100%);
+    margin-left: 10%;
+}
+
+.WaterYouDoing {
+    background: rgb(178, 239, 255);
+    background: radial-gradient(circle, rgba(178, 239, 255, 1) 5%, rgba(147, 255, 245, 1) 19%, rgba(145, 238, 255, 1) 38%, rgba(145, 166, 255, 1) 70%, rgba(87, 137, 242, 1) 95%);
+    font-weight: 500;
+}
+
+.EyeTracking {
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle at 50% 60%, rgba(0, 0, 0, 1) 5%, rgba(145, 238, 255, 1) 6%, rgba(86, 94, 128, 1) 15%, rgba(255, 255, 255, 1) 16%, rgba(103, 74, 74, 1) 100%);
+    font-weight: 500;
+}
+
+/* .Background{
+    background: rgb(218,210,187);
+    background: linear-gradient(90deg, rgba(218,210,187,1) 0%, rgba(166,212,199,1) 50%, rgba(221,184,184,1) 100%);
+} */
+.Background{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,174,45,1) 100%);
+}

@@ -1,0 +1,9 @@
+.GameContainer{
+    background-color: #211c1c;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    color: white;
+    font-weight: 400;
+}
