@@ -1,6 +1,6 @@
 .HeaderContainer {
     background: rgba(61, 61, 61, 0.5);
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.7) 20%, rgba(0, 0, 0, 0.7) 80%,rgba(0, 0, 0, 1) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.7) 20%, rgba(0, 0, 0, 0.7) 80%, rgba(0, 0, 0, 1) 100%);
     margin-left: 10%;
 }
 
@@ -16,23 +16,51 @@
     font-weight: 500;
 }
 
-.Background{
-    background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,174,45,1) 100%);
+.Background {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgb(212, 174, 121) 0%, rgb(112, 144, 145) 100%);
+    width: 100vw;
+    height: 100vh;
 }
 
-.NavBar{
-    backdrop-filter: blur(10px); /* Blur effect */
-    -webkit-backdrop-filter: blur(10px); /* Safari support */
+.NavBar {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 @keyframes flash {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 .flash {
-
     animation: flash 1s infinite alternate;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    outline: 10px solid rgb(0, 0, 0);
+    background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-thumb-color, rgb(112, 144, 145));
+    width: 8px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    border: 2px white;
 }
