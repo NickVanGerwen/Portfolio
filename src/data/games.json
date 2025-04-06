@@ -1,0 +1,92 @@
+{
+  "personalProjects": [
+    {
+      "id": "boids",
+      "title": "Oh Boids!",
+      "embedSrc": "https://itch.io/embed/2244129?border_width=5&amp;bg_color=adb9b1&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/oh-boids",
+      "description": "Oh Boids! is a customizable boids simulation. Boids is an example of emergent behaviour which can imitate a flock of birds and in this case a school of fish.",
+      "bgColor": "adb9b1",
+      "fgColor": "222222",
+      "linkColor": "fa5c5c"
+    },
+    {
+      "id": "metal",
+      "title": "Show Your Metal",
+      "embedSrc": "https://itch.io/embed/1443875?border_width=5&amp;bg_color=d1e0db&amp;fg_color=222222&amp;link_color=e38b00&amp;border_color=ffffff",
+      "link": "https://lokitheshady.itch.io/show-your-metal",
+      "description": "This puzzle game was made together with Bart Hagoort. It features a little metal man, making his way through a portal-esque testing facility.",
+      "bgColor": "d1e0db",
+      "fgColor": "222222",
+      "linkColor": "e38b00"
+    }
+  ],
+  "gameJams": [
+    {
+      "id": "jam",
+      "title": "Jans Jam",
+      "embedSrc": "https://itch.io/embed/2004414?border_width=5&amp;bg_color=C42F2F&amp;fg_color=222222&amp;link_color=fa5c5c&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/jans-jam",
+      "description": "'Jans Jam' is a short but sweet game about catching as much jam as possible. It is one of my personal favorites because everything, including visuals, sounds and music was made from scratch by me.",
+      "bgColor": "C42F2F",
+      "fgColor": "222222",
+      "linkColor": "fa5c5c"
+    },
+    {
+      "id": "monkey",
+      "title": "Falling Monkey",
+      "embedSrc": "https://itch.io/embed/1676599?border_width=5&amp;bg_color=ffecd6&amp;fg_color=0d2b45&amp;link_color=ffaa5e&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/falling-monkey",
+      "description": "A monkey who is done with life, but life is not done with him. 'Falling Monkey' provides a melancholic experience I've yet to recapture. This project increased my respect for sound design with every *boing*.",
+      "bgColor": "ffecd6",
+      "fgColor": "0d2b45",
+      "linkColor": "ffaa5e"
+    },
+    {
+      "id": "bean",
+      "title": "Blow That Bean Off The Table!",
+      "embedSrc": "https://itch.io/embed/2132730?border_width=5&amp;bg_color=1b1c16&amp;fg_color=2cff2a&amp;link_color=327345&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/blow-that-bean-off-the-table",
+      "description": "Inspired by 'The Stanley Parable' and found footage videos like 'The Backrooms', this game served as an exploration of horror through sound and visuals using an unassuming vegetable. Stick around long enough to see the true ending ;).",
+      "bgColor": "1b1c16",
+      "fgColor": "2cff2a",
+      "linkColor": "327345"
+    },
+    {
+      "id": "egg",
+      "title": "EXTREME EGG HUNT",
+      "embedSrc": "https://itch.io/embed/1492011?border_width=5&amp;bg_color=222222&amp;fg_color=eeeeee&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/extreme-egg-hunt",
+      "description": "This is the first game I ever submitted to a game jam. Everything was made by in the span of 5 hours and thus, is a good reflection of what my work looks like under high pressure.",
+      "bgColor": "222222",
+      "fgColor": "eeeeee",
+      "linkColor": "ffffff"
+    },
+    {
+      "id": "boss",
+      "title": "BossCade",
+      "embedSrc": "https://itch.io/embed/2514038?border_width=5&amp;bg_color=111111&amp;fg_color=8fd1ff&amp;link_color=7d2953&amp;border_color=ffffff",
+      "link": "https://nickvg.itch.io/bosscade",
+      "description": "A fast paced action game where you fight an unnamed yellow arcade boss. It focusses on retro visuals and procedural gameplay that evolves over time.",
+      "bgColor": "111111",
+      "fgColor": "8fd1ff",
+      "linkColor": "7d2953"
+    }
+  ],
+  "seriousGames": [
+    {
+      "id": "eyeTracking",
+      "title": "Virtual reality eye-tracking escape room",
+      "className": "EyeTracking",
+      "link": "https://www.youtube.com/watch?v=hnQDXada8EA&ab_channel=nickvangerwen",
+      "description": "This escape room was made in collaboration with the lectorate at Fontys to research the possibilities of eye-tracking in virtual reality games. Eye-tracking was used to gather data while players attempt to solve puzzles, this data was then used to predict their ability to solve the puzzles."
+    },
+    {
+      "id": "waterYouDoing",
+      "title": "Water You Doing?",
+      "className": "WaterYouDoing",
+      "link": "https://youtu.be/aNN6NGJJU9I",
+      "description": "'Water You Doing?' was made for the 'Night of the Nerds', an event by Futurebites showcasing creativity, innovation and technology. It was made with the goal of informing the youth about water usage. This was done using minigames centered around showers, bathrooms, sinks, etc. where the more water you save, the better you perform."
+    }
+  ]
+}

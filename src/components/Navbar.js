@@ -7,7 +7,7 @@ import '../styling/Navbar.css';
 function Navbar() {
     return (
         <nav className="navbar navBar navbar-expand-lg navbar-black bg-black fixed-top">
-            <div className="container-fluid d-flex align-items-center" style={{ position: 'relative' }}>
+            <div className="container-fluid d-flex align-items-center" style={{ position: 'relative', height: '40px' }}>
                 <div className="d-flex align-items-center" style={{ position: 'absolute', left: '0px' }}>
                     <Link to="section1" smooth={true} duration={500} style={{ cursor: 'pointer', color: 'white', fontSize: '20px' }}>Nick van Gerwen</Link>
                 </div>
