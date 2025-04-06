@@ -4,63 +4,9 @@
     margin-left: 10%;
 }
 
-.WaterYouDoing {
-    background: rgb(178, 239, 255);
-    background: radial-gradient(circle, rgba(178, 239, 255, 1) 5%, rgba(147, 255, 245, 1) 19%, rgba(145, 238, 255, 1) 38%, rgba(145, 166, 255, 1) 70%, rgba(87, 137, 242, 1) 95%);
-    font-weight: 500;
-}
-
-.EyeTracking {
-    background: rgb(0, 0, 0);
-    background: radial-gradient(circle at 50% 60%, rgba(0, 0, 0, 1) 5%, rgba(145, 238, 255, 1) 6%, rgba(86, 94, 128, 1) 15%, rgba(255, 255, 255, 1) 16%, rgba(103, 74, 74, 1) 100%);
-    font-weight: 500;
-}
-
 .Background {
     background: rgb(34, 193, 195);
     background: linear-gradient(0deg, rgb(212, 174, 121) 0%, rgb(112, 144, 145) 100%);
     width: 100vw;
-    height: 100vh;
-}
-
-.NavBar {
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-}
-
-@keyframes flash {
-    0% {
-        opacity: 1;
-    }
-
-    50% {
-        opacity: 0.5;
-    }
-
-    100% {
-        opacity: 1;
-    }
-}
-
-.flash {
-    animation: flash 1s infinite alternate;
-}
-
-::-webkit-scrollbar {
-    width: 10px;
-}
-
-::-webkit-scrollbar-track {
-    outline: 10px solid rgb(0, 0, 0);
-    background: #000000;
-}
-
-::-webkit-scrollbar-thumb {
-    background-color: var(--scroll-thumb-color, rgb(112, 144, 145));
-    width: 8px;
-    border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    border: 2px white;
+    height: 100%;
 }
